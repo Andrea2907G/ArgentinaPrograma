@@ -1,4 +1,4 @@
-//4. Escribir un programa JavaScript que calcule el promedio de 3 números.
+//4 Escribir un programa JavaScript que calcule el promedio de 3 números.
 
 // -> Declaracion de variables
 

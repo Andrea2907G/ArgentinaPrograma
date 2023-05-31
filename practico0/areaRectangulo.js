@@ -1,7 +1,7 @@
 
 /*2. Escribir un programa JavaScript que calcule el área de un rectángulo*/
 
-// -> Declaracion de variables
+// - Declaracion de variables
 
 let base;
 let altura;
