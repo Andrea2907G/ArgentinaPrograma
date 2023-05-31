@@ -6,7 +6,7 @@ Ayuda: utilizar console.log*/
 
 // --> Declaración y asignación de variables
 
-let minuendo = 400;
+let minuendo = 401;
 let sustraendo = 350;
 let resta = minuendo - sustraendo;
 console.log ("Con minuendo", minuendo, "y", "sustraendo", sustraendo, "el resultado de la operación es", resta);

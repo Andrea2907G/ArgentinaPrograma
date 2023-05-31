@@ -16,7 +16,7 @@ console.log ("El resultado de multiplicar", num1,"*", num2,"*", num3, "es", mult
 // --> Actualización de valores
 
 num1 = 2;
-num2 = 35;
-num3 = 50;
+num2 = 17;
+num3 = 6;
 multiplicacion = num1 * num2 * num3;
 console.log ("El resultado de multiplicar", num1,"*", num2,"*", num3, "es", multiplicacion); 
