@@ -1,7 +1,7 @@
 /*3.  Escribir un programa JavaScript que realice la conversión de grados Fahrenheit
 (F) a grados Celsius (C).*/
 
-// -> Declaración de variables
+// - Declaración de variables
 
 let C;
 let F;
