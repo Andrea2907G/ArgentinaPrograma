@@ -3,7 +3,7 @@
 // b)
 
 const readlineSync = require('readline-sync');
-let numero = readlineSync.question('Por favor ingrese un numero');
+let numero = readlineSync.question('Por favor ingrese un numero: ');
 numero = Number(numero);
 if (numero > 0) {
     console.log('El numero es positivo');
