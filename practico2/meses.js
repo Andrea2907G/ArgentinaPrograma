@@ -4,9 +4,9 @@ let mes;
 let dias;
 let seguir = true;
 const readlineSync = require('readline-sync');
-let num = readlineSync.question('Ingrese un numero entero del 1 al 12:');
-num = Number(num);
-while (seguir) {
+let num = readlineSync.question('Ingrese un numero entero del 1 al 12: ');
+num = Number(num); // El case compara de forma estricta
+while (seguir) { // Este bloque while seguirá ejecutando el condicional siempre que se ingrese un valor erroneo.
     switch (num) {
         case 1:
             mes = "enero";
@@ -69,7 +69,7 @@ while (seguir) {
             seguir = false;
             break;
         default:
-            num = readlineSync.question('Hubo un error, por favor ingrese un numero del 1 al 12:');
+            num = readlineSync.question('Hubo un error, por favor ingrese un numero del 1 al 12: ');
             num = Number(num);
     }
 }
