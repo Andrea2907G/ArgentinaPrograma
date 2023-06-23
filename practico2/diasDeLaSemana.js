@@ -1,7 +1,7 @@
 // Ejercicio 4
 
 const readlineSync = require('readline-sync');
-let num = readlineSync.question('Ingrese un numero entero del 1 al 7:');
+let num = readlineSync.question('Ingrese un numero entero del 1 al 7: ');
 num = Number(num);
 switch (num) {
     case 1:
