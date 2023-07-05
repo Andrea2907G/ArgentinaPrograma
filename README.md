@@ -1,3 +1,3 @@
 # ArgentinaPrograma 4.0
-ArgentinaPrograma vimos hasta funciones!!
+ArgentinaPrograma finaliza el primer tramo, hasta funciones.
 
